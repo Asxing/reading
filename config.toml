@@ -1,0 +1,14 @@
+baseURL = "https://book.asxing.com/"
+languageCode = "en-us"
+title = "布斯行"
+theme = "kitab"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+pluralizelisttitles = false
+
+[params]
+  author = "阿行"
+  description = "Some books of Asxing Yang"
+  dateFormat = "2021-03-28"
+  footer1 = "love reading"
+  footer2 = "love writing"
